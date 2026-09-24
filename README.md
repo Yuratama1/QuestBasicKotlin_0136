@@ -52,3 +52,6 @@ contoh 2:
 
 #Member functions
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 02 41" src="https://github.com/user-attachments/assets/3a0c09a4-2364-4031-84de-0500dc676928" />
+
+#Data classes
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 06 48" src="https://github.com/user-attachments/assets/57614f27-a22c-41a2-80ed-46ad1b6149d1" />
