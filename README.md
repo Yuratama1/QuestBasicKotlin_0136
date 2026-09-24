@@ -26,3 +26,6 @@ contoh 2:
 
 #For membuat perulangan yang mengulang angka 1 hingga 5 dan mencetak angka tersebut setiap kali.
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 45 07" src="https://github.com/user-attachments/assets/fbd7c3d7-c385-46a5-9d34-91e713d92adb" />
+
+#While
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 49 13" src="https://github.com/user-attachments/assets/14c693a1-c0b6-4fc9-86f1-c24806939a81" />
