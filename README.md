@@ -29,3 +29,7 @@ contoh 2:
 
 #While
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 49 13" src="https://github.com/user-attachments/assets/14c693a1-c0b6-4fc9-86f1-c24806939a81" />
+
+#Functions
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 52 35" src="https://github.com/user-attachments/assets/0112860f-aaba-4369-86fa-8c6b9ade31c1" />
+
