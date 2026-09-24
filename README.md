@@ -11,7 +11,12 @@ map, gunakan operator akses yang diindeks [] dengan ‘key’nya
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 29 30" src="https://github.com/user-attachments/assets/e25f987d-d5c9-4107-80a2-101de1faca74" />
 
 #Conditional expressions 
-If
-Untuk menggunakan if, tambahkan ekspresi kondisional di dalam tanda kurung () dan
-tindakan yang akan dilakukan jika hasilnya benar di dalam tanda kurung kurawal {}:
+- If Untuk menggunakan if, tambahkan ekspresi kondisional di dalam tanda kurung () dan tindakan yang akan dilakukan jika hasilnya benar di dalam tanda kurung kurawal {}:
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 31 21" src="https://github.com/user-attachments/assets/c2ed9d11-2575-4e88-8096-56d2b4f1cd10" />
+
+- When Gunakan when ketika Anda memiliki ekspresi bersyarat dengan beberapa cabang. when dapat digunakan baik sebagai pernyataan maupun ekspresi.
+contoh 1:
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 35 41" src="https://github.com/user-attachments/assets/72ff01d5-4cd3-4ff5-b975-9ee8fa09583d" />
+
+contoh 2:
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 36 51" src="https://github.com/user-attachments/assets/e38fa2f9-d2c4-4b02-8412-2ab93872faee" />
