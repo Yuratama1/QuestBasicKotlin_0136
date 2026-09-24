@@ -38,3 +38,17 @@ contoh 2:
 
 #Default parameter values
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 54 49" src="https://github.com/user-attachments/assets/fb276c34-0a31-4f6f-93a3-8048dc13341e" />
+
+#Functions without return 
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 56 08" src="https://github.com/user-attachments/assets/6c88f08f-e9ce-4cf6-8a58-569bc465f85c" />
+
+#Lambda expressions
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 57 26" src="https://github.com/user-attachments/assets/87ed6be7-fe52-444b-84b0-d35a80e712d3" />
+
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 58 10" src="https://github.com/user-attachments/assets/b8ae5877-7983-492b-bc33-d149daf9df38" />
+
+#Class, Properties & Create instance
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 01 03" src="https://github.com/user-attachments/assets/24d09a4f-d45c-4807-8158-2a08a007cd78" />
+
+#Member functions
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 02 41" src="https://github.com/user-attachments/assets/3a0c09a4-2364-4031-84de-0500dc676928" />
