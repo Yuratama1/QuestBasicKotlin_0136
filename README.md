@@ -33,3 +33,8 @@ contoh 2:
 #Functions
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 52 35" src="https://github.com/user-attachments/assets/0112860f-aaba-4369-86fa-8c6b9ade31c1" />
 
+#Named arguments
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 54 01" src="https://github.com/user-attachments/assets/a857c360-86df-45ff-a5fd-7a7d6d31bb8d" />
+
+#Default parameter values
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 54 49" src="https://github.com/user-attachments/assets/fb276c34-0a31-4f6f-93a3-8048dc13341e" />
