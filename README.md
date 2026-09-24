@@ -20,3 +20,9 @@ contoh 1:
 
 contoh 2:
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 36 51" src="https://github.com/user-attachments/assets/e38fa2f9-d2c4-4b02-8412-2ab93872faee" />
+
+#Range & Perulangan (for dan while)
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 44 27" src="https://github.com/user-attachments/assets/089432d2-0969-46ec-a1fd-ea975f0b95ac" />
+
+#For membuat perulangan yang mengulang angka 1 hingga 5 dan mencetak angka tersebut setiap kali.
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 20 45 07" src="https://github.com/user-attachments/assets/fbd7c3d7-c385-46a5-9d34-91e713d92adb" />
