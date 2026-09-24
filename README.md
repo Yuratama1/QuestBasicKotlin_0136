@@ -55,3 +55,24 @@ contoh 2:
 
 #Data classes
 <img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 06 48" src="https://github.com/user-attachments/assets/57614f27-a22c-41a2-80ed-46ad1b6149d1" />
+
+#Print as string 
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 09 35" src="https://github.com/user-attachments/assets/687f9031-14d3-450e-a11c-a65b22629c9a" />
+
+#Compare instances
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 11 01" src="https://github.com/user-attachments/assets/57bb19c7-5165-4c34-b40b-b289250385d9" />
+
+#Copy instance
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 11 39" src="https://github.com/user-attachments/assets/735b04ab-ddca-4a58-bf2d-3ac26896d39f" />
+
+#Nullable types
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 13 35" src="https://github.com/user-attachments/assets/b880e959-9607-4f4c-b953-9eae9c4400af" />
+
+#Check for null values
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 14 08" src="https://github.com/user-attachments/assets/492311f0-b620-4799-be1b-3d3d443c8b5e" />
+
+#Use safe calls
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 14 39" src="https://github.com/user-attachments/assets/59a54a44-7bf9-45db-904c-3efafe4df1ff" />
+
+#Use Elvis operator
+<img width="1440" height="900" alt="Screen Shot 2026-09-24 at 21 15 10" src="https://github.com/user-attachments/assets/c47a6a97-abb7-477e-b6a3-2410d3c8fbf1" />
